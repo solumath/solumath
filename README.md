@@ -1,4 +1,8 @@
-### Hi there 👋
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=solumath&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solumath&layout=compact&theme=onedark">
+</p>
+<img src="https://komarev.com/ghpvc/?username=solumath&style=flat-square&color=blue" alt=""/>
 
 <!--
 **solumath/solumath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
