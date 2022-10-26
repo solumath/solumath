@@ -4,6 +4,7 @@
 </span>
 <img src="https://komarev.com/ghpvc/?username=solumath&style=flat-square&color=blue" alt=""/>
 
+[![@solumath's Holopin board](https://holopin.me/solumath)](https://holopin.io/@solumath)
 # Nowadays
 🔭 I’m currently working on my discord bot [Morpheus](https://github.com/solumath/Morpheus)
 
