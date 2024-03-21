@@ -9,7 +9,7 @@
 
 # Nowadays
 
-🔭 I’m currently working on my discord bot [Morpheus](https://github.com/solumath/Morpheus)
+🔭 My current focus is discord bots. Mostly [Morpheus](https://github.com/solumath/Morpheus) and [Rubbergod](https://github.com/vutfitdiscord) but I like to help elsewhere too.
 
 <!--
 - 🌱 I’m currently learning ...
